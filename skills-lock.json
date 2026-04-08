@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "langchain-dependencies": {
+      "source": "langchain-ai/langchain-skills",
+      "sourceType": "github",
+      "computedHash": "c0f6bdbf1d896c2d913984ec151d30c1d1ed53fdaa94495fc37495726bf946a1"
+    },
+    "langchain-fundamentals": {
+      "source": "langchain-ai/langchain-skills",
+      "sourceType": "github",
+      "computedHash": "3840467afe5d0439480e58680c6153f8dbee9fe542c6afde9009a6d55aca4e46"
+    },
+    "langchain-rag": {
+      "source": "langchain-ai/langchain-skills",
+      "sourceType": "github",
+      "computedHash": "25f569409285938fcb078ed2d14893f7d620131a28107f7a5c16f48b40bee24a"
+    },
+    "streamlit": {
+      "source": "silvainfm/claude-skills",
+      "sourceType": "github",
+      "computedHash": "949f2a78daaee124512332a11b736fbbe76845a73fb1e7253d45cd81b5caf115"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+CHROMA_PATH = "./chroma_db"
+EMBEDDING_LIMIT = 100
+COLLECTION_NAME = "lore"
+
+# Retriever search parameters
+SEARCH_STRATEGY = "mmr"
+RETRIEVER_K = 5
+RETRIEVER_FETCH_K = 20
+RETRIEVER_LAMBDA_MULT = 0.5
